@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimalCounter</string>
+    <string name="crow_button">See crow</string>
+    <string name="cat_button">See cat</string>
+    <string name="count_text_view_title">You counted :</string>
+    <plurals name="numberOfCats">
+        <item quantity="one">%d cat</item>
+        <item quantity="other">%d cats</item>
+    </plurals>
+    <plurals name="numberOfCrows">
+        <item quantity="one">%d crow</item>
+        <item quantity="other">%d crows</item>
+    </plurals>
+</resources>
