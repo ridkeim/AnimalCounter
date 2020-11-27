@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crow_button">вижу ворону</string>
+    <string name="cat_button">вижу кота</string>
+    <string name="count_text_view_title">Вы нассчитали:</string>
+    <string name="reset_button">ОБНУЛИСЬ!</string>
+    <plurals name="numberOfCats" >
+        <item quantity="one">%d кот</item>
+        <item quantity="few">%d кота</item>
+        <item quantity="many">%d котов</item>
+        <item quantity="other">%d котов</item>
+    </plurals>
+    <plurals name="numberOfCrows">
+        <item quantity="one">%d ворона</item>
+        <item quantity="few">%d вороны</item>
+        <item quantity="many">%d ворон</item>
+        <item quantity="other">%d ворон</item>
+    </plurals>
+</resources>

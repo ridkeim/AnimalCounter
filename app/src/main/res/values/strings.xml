@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">AnimalCounter</string>
-    <string name="crow_button">See crow</string>
-    <string name="cat_button">See cat</string>
-    <string name="count_text_view_title">You counted :</string>
+    <string name="app_name" translatable="false">AnimalCounter</string>
+    <string name="crow_button">see crow</string>
+    <string name="cat_button">see cat</string>
+    <string name="count_text_view_title">You counted:</string>
+    <string name="reset_button">reset</string>
     <plurals name="numberOfCats">
         <item quantity="one">%d cat</item>
         <item quantity="other">%d cats</item>
